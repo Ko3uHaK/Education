@@ -6,6 +6,8 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPrometheus",
+      "TiCode",
       "FabList",
       "SiJfrog",
       "SiTerraform"
@@ -20,7 +22,9 @@
     },
     "iconInTabsEnabled": false
   },
-  "Terraform": "SiTerraform",
-  "JFROG Artifactory": "SiJfrog",
-  "List.md": "FabList"
+  "List.md": "FabList",
+  "Technologies/Terraform": "SiTerraform",
+  "Technologies/JFROG Artifactory": "SiJfrog",
+  "Technologies": "TiCode",
+  "Technologies/Prometheus": "SiPrometheus"
 }
